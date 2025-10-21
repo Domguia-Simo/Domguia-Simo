@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Domguia-Simo
 - 👀 I’m interested in programming and new technologies 
-- 🌱 I’m currently learning spring boot 
+- 🌱 I’m currently specializing in spring boot 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: domguiasimoulrich@gmail.com
 
